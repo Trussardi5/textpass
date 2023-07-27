@@ -1,1 +1,1 @@
-# textpass
+Password randomizer
